@@ -1,0 +1,19 @@
+(play )
+S
+(play )
+（play )
+(play)
+(get-path 2)
+(air-raid 2)
+(air-raid [1 2])
+(air-raid 2 [1 2])
+(play)
+(air-raid 2 [1 2])
+
+(air-raid 2 [1 2])
+(.indexOf [1 2 3] 2)
+def p [1 2 3]
+(def p [1 2 3])
+(.indexOf p 2)
+(.indexOf p 3)
+(play)
